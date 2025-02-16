@@ -6,9 +6,9 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 ## ⏳ Development Timeline (1 Week)
 
 ### **Day 1: Core Physics & Launch System**
-- [ ] Implement a basic cannon launch system
-- [ ] Ensure physics-based trajectory and movement
-- [ ] Character should move naturally and slide upon landing
+- [x] Implement a basic cannon launch system
+- [x] Ensure physics-based trajectory and movement
+- [x] Character should move naturally and slide upon landing
 
 ### **Day 2: Visuals & Animation**
 - [ ] Implement basic cannon movement and animation
