@@ -9,6 +9,11 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 - [x] Implement a basic cannon launch system
 - [x] Ensure physics-based trajectory and movement
 - [x] Character should move naturally and slide upon landing
+- [ ] Basic UI
+  - [ ] Speed Tracker
+  - [ ] Height Tracker
+- [ ]  Basic Loop (when speed is zero the player can reset)
+- [ ]  Basic xp tracking ((distance + height) * duration multiplier)
 
 ### **Day 2: Visuals & Animation**
 - [ ] Implement basic cannon movement and animation
