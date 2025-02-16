@@ -13,11 +13,11 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Speed Tracker
   - [x] Height Tracker
   - [x] Distance Tracker
-- [ ]  Basic Loop
+- [x]  Basic Loop
   - [x]  when speed is zero the player stands up
-  - [ ]  stats canvas
-  - [ ]  click to restart
-- [ ]  Basic xp tracking ((distance + height) * duration multiplier)
+  - [x]  stats canvas
+  - [x]  click to restart
+- [x]  Basic xp tracking ((distance + height) * duration multiplier)
 
 ### **Day 2: Visuals & Animation**
 - [ ] Implement basic cannon movement and animation
