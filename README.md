@@ -12,7 +12,7 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 - [x] Basic UI
   - [x] Speed Tracker
   - [x] Height Tracker
-  - [ ] Distance Tracker
+  - [x] Distance Tracker
 - [ ]  Basic Loop (when speed is zero the player can reset)
 - [ ]  Basic xp tracking ((distance + height) * duration multiplier)
 
