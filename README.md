@@ -19,22 +19,19 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x]  click to restart
 - [x]  Basic xp tracking ((distance + height) * duration multiplier)
 
-### **Day 2: Visuals & Animation**
-- [ ] Implement basic cannon movement and animation
-- [ ] Add player ragdoll effect upon launch
-- [ ] Air Mines
+### **Day 2: Upgrade System**
+- [ ] Basic Upgrade System & UI
+  - [ ] Cannon Force
+  - [ ] Aero Dynamics
+- [ ] Glider Mechanics
 
 ### **Day 3: Obstacles**
 - [ ] Implement birds, and other obstacles
 - [ ] Ensure obstacles interact properly with physics and player movement
 
-### **Day 4: Upgrade System**
-- [ ] Implement upgrade mechanics
-  - [ ] Cannon Force
-  - [ ] Cannon Charge Rate
-  - [ ] Player strength (getting through obsticles and obsticles impact)
-  - [ ] Aero Dynamics
-- [ ] Add upgrade art for glider and propulsion systems
+### **Day 4: Art**
+- [ ] Cannon Sprite
+- [ ] Glider Sprite
 
 ### **Day 5: GUI & User Interaction**
 - [ ] Build UI for menus, upgrade selection, and game status
