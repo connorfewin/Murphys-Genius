@@ -20,22 +20,37 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 - [x]  Basic xp tracking ((distance + height) * duration multiplier)
 
 ### **Day 2: Upgrade System**
-- [ ] Basic Upgrade System & UI
-  - [ ] Cannon Force
-  - [ ] Aero Dynamics
+- [x] Basic Upgrade System & UI
+  - [x] Cannon Force
+- [ ] Auro Mechanics
+  - [ ] Add to UI
 - [ ] Glider Mechanics
+  - [ ] Basic glider art
+  - [ ] Basic glider controls/movmeent in air
+  - [ ] Appropriate speed adjustment
 
 ### **Day 3: Obstacles**
-- [ ] Implement birds, and other obstacles
-- [ ] Ensure obstacles interact properly with physics and player movement
+- [ ] Air Mines
+  - [ ] Force emmited at an x degree increase to the current direction
+- [ ] Birds (Just cause damage to glider and a speed hit) 
 
 ### **Day 4: Art**
 - [ ] Cannon Sprite
 - [ ] Glider Sprite
+- [ ] Background art
+  - [ ] Environment back ground
+  - [ ] Environment middle ground
+  - [ ] Different scrolling speeds for each
+- [ ] Altitude Art
+  - [ ] Different looks the higher you are 
 
-### **Day 5: GUI & User Interaction**
-- [ ] Build UI for menus, upgrade selection, and game status
-- [ ] Implement visual and audio feedback for player actions
+### **Day 5: Game Juice**
+- [ ] Music
+- [ ] Sound Effects
+- [ ] Art Polishing
+- [ ] Camera Shake
+  - [ ] Explosions
+  - [ ] High Velocity 
 
 ### **Day 6: Storyline & Instructions**
 - [ ] Create a short storyline for context
