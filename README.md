@@ -22,7 +22,8 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 ### **Day 2: Upgrade System and flying mechanics**
 - [x] Basic Upgrade System & UI
   - [x] Cannon Force
-- [ ] Particle Trail 
+- [x] Player Trail Renderer
+- [x] Layer Manager 
 - [ ] Glider Mechanics
   - [ ] Basic glider art
   - [ ] Basic glider controls/movmeent in air
