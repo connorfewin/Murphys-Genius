@@ -22,7 +22,7 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 ### **Day 2: Upgrade System**
 - [x] Basic Upgrade System & UI
   - [x] Cannon Force
-- [ ] Auro Mechanics
+- [ ] Aero Mechanics
   - [ ] Add to UI
 - [ ] Glider Mechanics
   - [ ] Basic glider art
