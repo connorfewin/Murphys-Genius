@@ -24,12 +24,12 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Cannon Force
 - [x] Player Trail Renderer
 - [x] Layer Manager 
-- [ ] Glider Mechanics
-  - [ ] Basic glider art
-  - [ ] Basic glider controls/movmeent in air
-  - [ ] Appropriate speed adjustment
-- [ ] Aero Mechanics 
-  - [ ] Add to Inventory UI
+- [x] Glider Mechanics
+  - [x] Basic glider art
+  - [x] Basic glider controls/movmeent in air
+  - [x] Appropriate speed adjustment
+  - [x] Enable/Disable Glider
+- [x] Add 1 glider to the inventory manager
 
 
 ### **Day 3: Obstacles**
@@ -39,7 +39,7 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 
 ### **Day 4: Art**
 - [ ] Cannon Sprite
-- [ ] Glider Sprite
+- [x] Glider Sprite
 - [ ] Background art
   - [ ] Environment back ground
   - [ ] Environment middle ground
