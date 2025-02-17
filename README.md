@@ -23,12 +23,13 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 - [x] Basic Upgrade System & UI
   - [x] Cannon Force
 - [ ] Particle Trail 
-- [ ] Aero Mechanics
-  - [ ] Add to UI
 - [ ] Glider Mechanics
   - [ ] Basic glider art
   - [ ] Basic glider controls/movmeent in air
   - [ ] Appropriate speed adjustment
+- [ ] Aero Mechanics 
+  - [ ] Add to Inventory UI
+
 
 ### **Day 3: Obstacles**
 - [ ] Air Mines
