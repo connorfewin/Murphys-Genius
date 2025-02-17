@@ -19,9 +19,10 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x]  click to restart
 - [x]  Basic xp tracking ((distance + height) * duration multiplier)
 
-### **Day 2: Upgrade System**
+### **Day 2: Upgrade System and flying mechanics**
 - [x] Basic Upgrade System & UI
   - [x] Cannon Force
+- [ ] Particle Trail 
 - [ ] Aero Mechanics
   - [ ] Add to UI
 - [ ] Glider Mechanics
