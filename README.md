@@ -32,10 +32,14 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 - [x] Add 2 glider to the inventory manager
 
 
-### **Day 3: Obstacles**
+### **Day 3: Thruster && Bombs**
 - [ ] Air Mines
   - [ ] Force emmited at an x degree increase to the current direction
-- [ ] Birds (Just cause damage to glider and a speed hit) 
+- [ ] Thruster
+  - [ ] Thruster sprite
+  - [ ] Fuel Management
+  - [ ] Rocket Power
+  - [ ] Thruster Animation
 
 ### **Day 4: Art**
 - [ ] Cannon Sprite
