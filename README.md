@@ -29,7 +29,7 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Basic glider controls/movmeent in air
   - [x] Appropriate speed adjustment
   - [x] Enable/Disable Glider
-- [x] Add 1 glider to the inventory manager
+- [x] Add 2 glider to the inventory manager
 
 
 ### **Day 3: Obstacles**
