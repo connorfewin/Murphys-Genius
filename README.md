@@ -40,7 +40,7 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Fuel Management
   - [x] Rocket Power
   - [x] Thruster Animation
-- [ ] Landing bug
+- [x] Landing bug
 - [ ] No glider movement
   - [ ] Rotation
   - [ ] Thruster capability 
