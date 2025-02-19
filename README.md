@@ -71,6 +71,7 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 ### **Day 7: Final Touches & Submission**
 - [ ] Set up itch.io page
 - [ ] Minor polishing and bug fixes
+  - [ ] Free fall speed is way to slow (there should be no limit) 
 - [ ] Final playtesting and submission
 
 ## 🛠️ Tech Stack
