@@ -36,13 +36,14 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 - [ ] Air Mines
   - [ ] Force emmited at an x degree increase to the current direction
 - [ ] Thruster
-  - [ ] Thruster sprite
-  - [ ] Fuel Management
-  - [ ] Rocket Power
+  - [x] Thruster sprite
+  - [x] Fuel Management
+  - [x] Rocket Power
   - [ ] Thruster Animation
 
 ### **Day 4: Art**
 - [ ] Cannon Sprite
+- [x] Thrusters
 - [x] Glider Sprite
 - [ ] Background art
   - [ ] Environment back ground
