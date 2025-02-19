@@ -46,15 +46,16 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Thruster capability 
 
 ### **Day 4: Art**
-- [ ] Cannon Sprite
+- [x] Cannon Sprite
 - [x] Thrusters
 - [x] Glider Sprite
-- [ ] Background art
-  - [ ] Environment back ground
-  - [ ] Environment middle ground
-  - [ ] Different scrolling speeds for each
+- [x] Background art
+  - [x] Environment back ground
+  - [x] Environment middle ground
+  - [x] Different scrolling speeds for each
 - [ ] Altitude Art
-  - [ ] Different looks the higher you are
+  - [x] Fog and space
+  - [ ] Planets in space
 - [ ] Water
   - [ ] Bouyancy effect
   - [ ] Visual effect  
