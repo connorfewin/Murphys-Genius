@@ -54,7 +54,10 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [ ] Environment middle ground
   - [ ] Different scrolling speeds for each
 - [ ] Altitude Art
-  - [ ] Different looks the higher you are 
+  - [ ] Different looks the higher you are
+- [ ] Water
+  - [ ] Bouyancy effect
+  - [ ] Visual effect  
 
 ### **Day 5: Game Juice**
 - [ ] Music
