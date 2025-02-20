@@ -61,13 +61,13 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Store
 
 ### **Day 5: Game Juice**
-- [ ] Music
 - [ ] Final Island
 - [ ] Sound Effects
-- [ ] Art Polishing
 - [ ] Camera Shake
   - [ ] Explosions
   - [ ] High Velocity 
+- [ ] Music
+- [ ] Art Polishing
 
 ### **Day 6: Storyline & Instructions**
 - [ ] Create a short storyline for context
