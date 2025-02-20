@@ -55,10 +55,14 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Different scrolling speeds for each
 - [x] Water
   - [x] Bouyancy effect
-  - [x] Visual effect  
+  - [x] Visual effect
+- [ ] 3rd Glider
+  - [ ] Sprite
+  - [ ] Store
 
 ### **Day 5: Game Juice**
 - [ ] Music
+- [ ] Final Island
 - [ ] Sound Effects
 - [ ] Art Polishing
 - [ ] Camera Shake
