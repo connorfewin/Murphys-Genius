@@ -56,9 +56,9 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 - [x] Water
   - [x] Bouyancy effect
   - [x] Visual effect
-- [ ] 3rd Glider
-  - [ ] Sprite
-  - [ ] Store
+- [x] 3rd Glider
+  - [x] Sprite
+  - [x] Store
 
 ### **Day 5: Game Juice**
 - [ ] Music
