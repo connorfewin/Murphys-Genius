@@ -53,9 +53,9 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Environment back ground
   - [x] Environment middle ground
   - [x] Different scrolling speeds for each
-- [ ] Water
-  - [ ] Bouyancy effect
-  - [ ] Visual effect  
+- [x] Water
+  - [x] Bouyancy effect
+  - [x] Visual effect  
 
 ### **Day 5: Game Juice**
 - [ ] Music
