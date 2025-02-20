@@ -62,6 +62,8 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 
 ### **Day 5: Game Juice**
 - [ ] Final Island
+  - [ ] Finish line functionality
+  - [ ] Finish line visual (floating)  
 - [ ] Sound Effects
 - [ ] Camera Shake
   - [ ] Explosions
