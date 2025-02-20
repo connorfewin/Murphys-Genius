@@ -53,9 +53,6 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Environment back ground
   - [x] Environment middle ground
   - [x] Different scrolling speeds for each
-- [ ] Altitude Art
-  - [x] Fog and space
-  - [ ] Planets in space
 - [ ] Water
   - [ ] Bouyancy effect
   - [ ] Visual effect  
