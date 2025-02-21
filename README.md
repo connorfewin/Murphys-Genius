@@ -60,10 +60,22 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Sprite
   - [x] Store
 
-### **Day 5: Game Juice**
+### **Day 5: Complete Game Loop**
 - [ ] Final Island
-  - [ ] Finish line functionality
-  - [ ] Finish line visual (floating)  
+  - [x] Finish line functionality
+  - [x] Finish line visual (floating)
+  - [ ] Ending Distance
+    - [ ] Maxed Out Distance
+    - [ ] Replac distance state with distance to island check 
+- [ ] Create a short storyline for context
+- [ ] Instructions/Controls Canvas
+  - [ ] Canvas with info
+  - [ ] Renders on game start
+  - [ ] Toggle on Inventory Canvas Check out the controls
+  - [ ] Toggle on controls to take you back to inventory 
+- [ ] Start Scene
+
+### **Day 6: Game Juice**
 - [ ] Sound Effects
 - [ ] Camera Shake
   - [ ] Explosions
@@ -71,9 +83,6 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 - [ ] Music
 - [ ] Art Polishing
 
-### **Day 6: Storyline & Instructions**
-- [ ] Create a short storyline for context
-- [ ] Implement tutorial/instruction system
 
 ### **Day 7: Final Touches & Submission**
 - [ ] Set up itch.io page
