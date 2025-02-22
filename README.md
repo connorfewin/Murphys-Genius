@@ -72,7 +72,7 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Renders on game start
   - [x] Toggle on Inventory Canvas Check out the controls
   - [x] Toggle on controls to take you back to inventory 
-- [ ] Start Scene
+- [x] Start Scene
 - [ ] Create a short storyline for context
 
 
