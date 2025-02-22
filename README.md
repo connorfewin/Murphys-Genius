@@ -74,6 +74,7 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
   - [x] Toggle on controls to take you back to inventory 
 - [x] Start Scene
 - [x] Create a short storyline for context
+- [ ] End Scene
 
 
 ### **Day 6: Game Juice**
