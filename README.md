@@ -3,6 +3,9 @@
 ## 🎯 Game Concept
 A 2D Unity game with a launcher-style mechanic, where two characters try to reach an island using upgrades like gliders and propulsion systems. The game features obstacles such as birds and air mines. The art style is simplified using Piskel.
 
+## Results! Placed 512/2,196
+https://itch.io/jam/brackeys-13/rate/3348365
+
 ## ⏳ Development Timeline (1 Week)
 
 ### **Day 1: Core Physics & Launch System**
