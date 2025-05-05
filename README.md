@@ -78,19 +78,19 @@ A 2D Unity game with a launcher-style mechanic, where two characters try to reac
 
 
 ### **Day 6: Game Juice**
-- [ ] Sound Effects
+- [x] Sound Effects
 - [ ] Camera Shake
   - [ ] Explosions
   - [ ] High Velocity 
 - [ ] Music
-- [ ] Art Polishing
+- [x] Art Polishing
 
 
 ### **Day 7: Final Touches & Submission**
-- [ ] Set up itch.io page
-- [ ] Minor polishing and bug fixes
-  - [ ] Free fall speed is way to slow (there should be no limit) 
-- [ ] Final playtesting and submission
+- [x] Set up itch.io page
+- [x] Minor polishing and bug fixes
+  - [x] Free fall speed is way to slow (there should be no limit) 
+- [x] Final playtesting and submission
 
 ## 🛠️ Tech Stack
 - **Engine:** Unity (WebGL build)
